@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.835" height="41" viewBox="0 0 253.835 41">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="21.253" height="21.039" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4379" data-name="Group 4379" transform="translate(-146 -9)">
+    <text id="RAFAEL_TIRADO" data-name="RAFAEL TIRADO" transform="translate(203.835 37)" fill="#fff" font-size="21" font-family="HelveticaNowDisplay-Black, Helvetica Now Display" font-weight="800" letter-spacing="0.1em"><tspan x="0" y="0">RAFAEL TIRADO</tspan></text>
+    <g id="Group_25" data-name="Group 25" transform="translate(55 -1)">
+      <g id="Group_27" data-name="Group 27" transform="translate(101.837 19.561)">
+        <path id="Path_31" data-name="Path 31" d="M27.863,37.274l3.759,5.218h5.732l-4.488-6.613Z" transform="translate(-16.66 -21.453)" fill="#fff"/>
+        <g id="Group_26" data-name="Group 26" transform="translate(0 0)">
+          <g id="Group_25-2" data-name="Group 25" clip-path="url(#clip-path)">
+            <path id="Path_32" data-name="Path 32" d="M16.518,2.174c-.453-.064-.959-.1-1.4-.126h-4.1L11.54,0H6.21L5.691,2.048H1.23L0,6.9H4.462L.88,21.039H6.21L9.792,6.9h6.247a.516.516,0,0,1,.133,1.007l-5.64,1.408-1.408,5.56,8.508-2.331c2.9-.819,3.621-2.852,3.621-5.1a5.544,5.544,0,0,0-4.736-5.273" transform="translate(0 0)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(91 10)" fill="none" stroke="#fff" stroke-width="1.5">
+        <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+        <circle cx="20.5" cy="20.5" r="19.75" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
