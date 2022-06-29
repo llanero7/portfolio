@@ -13,7 +13,7 @@ body {
     font-weight: normal;
     font-style: normal;
     @media (min-width: 992px) {
-        padding-top: 55px;
+        padding-top: 67px;
     }
 }
 
@@ -467,9 +467,10 @@ h2 {
         color: #002C7E;
         font-size: 2.6rem;
         padding-right: 50px;
-        line-height: 1.1;
         text-align: center;
-        background:url("../images/next-arrow.svg") no-repeat right 15px;
+        background:url("../images/next-arrow.svg") no-repeat right center;
+        padding: 15px 50px;
+
         &:hover {
             text-decoration: none;
         }
@@ -594,6 +595,7 @@ h2 {
     list-style: none;
     padding: 0;
     margin-bottom: 24px;
+    float: left;
     li{
         background: #3F61A0;
         border-radius: 7px;
@@ -603,7 +605,10 @@ h2 {
         font-weight: 300;
         font-style: normal;
         font-size: 15px;
-        display: inline;
+
+        float: left;
+        margin-right: 12px;
+        margin-bottom: 12px
     }
 }
 
@@ -880,20 +885,73 @@ h2 {
     }
 }
 
+.inner-nav-links {
+    background: #F7F7F7;
+    padding: 15px 20px;
+    text-align: left;
+    color: #CCCCCC;
+    font-weight: bold;
+    /* position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 9; */
+    .row {
+        margin-left: 7px;
+    }
+
+    span{
+        padding: 20px;
+    }
+}
 
 
+.inner-nav-links  a {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;  /* project-arrow.svg */      /* blue-project-arrow.svg */
+    position: relative;
+    &.next-link:after {
+        content: "";
+        width: 10px;
+        height: 70px;
+        padding-right: 20px;
+    }
+    &.prev-link:before {
+        content: "";
+        width: 10px;
+        height: 29px;
+        padding-left: 15px;
+        transform: rotate(-180deg);
+        position: absolute;
+        left: -28px;
+        top: -1px;
+    }
+}
+
+.general {
+    .inner-nav-links  a {
+        color: #002C7E;
+        &.next-link:after {
+            background: url("../images/blue-project-arrow.svg") no-repeat right center;
+        }
+        &.prev-link:before {
+            background:  url("../images/blue-project-arrow.svg") no-repeat left center;
+        }
+    }
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+.general.valliet {
+    .inner-nav-links  a {
+        color: #BF655B;
+        &.next-link:after {
+            background: url("../images/project-arrow.svg") no-repeat right center;
+        }
+        &.prev-link:before {
+            background:  url("../images/project-arrow.svg") no-repeat left center;
+        }
+    }
+}
 
