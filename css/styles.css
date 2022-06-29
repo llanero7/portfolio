@@ -473,6 +473,10 @@ h2 span {
   color: #fff;
 }
 
+.general .general-content.gray-bg {
+  background: #F6F7FA;
+}
+
 .general a {
   color: #0AA3C6;
 }
