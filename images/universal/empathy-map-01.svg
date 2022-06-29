@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1334.503" height="710.271" viewBox="0 0 1334.503 710.271">
+  <defs>
+    <filter id="Rectangle_74" x="0" y="56.98" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="Rectangle_74-2" x="0" y="233.919" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+    </filter>
+    <filter id="Rectangle_74-3" x="0" y="371.872" width="240.433" height="126.972" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="Rectangle_74-4" x="109.962" y="535.315" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+    </filter>
+    <filter id="Rectangle_74-5" x="339.883" y="570.304" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+    </filter>
+    <filter id="Rectangle_74-6" x="566.804" y="613.789" width="240.433" height="70.991" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+    </filter>
+    <filter id="Rectangle_163" x="244.916" y="52.982" width="240.433" height="113.477" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+    </filter>
+    <filter id="Rectangle_164" x="484.833" y="52.982" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+    </filter>
+    <filter id="Rectangle_164-2" x="729.748" y="201.931" width="240.433" height="113.477" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+    </filter>
+    <filter id="Rectangle_165" x="729.748" y="0" width="240.433" height="139.967" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+    </filter>
+    <filter id="Rectangle_164-3" x="729.748" y="458.842" width="240.433" height="113.477" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+    </filter>
+    <filter id="Rectangle_164-4" x="729.748" y="352.258" width="240.433" height="72.731" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_166" data-name="Rectangle 166" width="109.91" height="142.875" transform="translate(0 0)" fill="#445469"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4235" data-name="Group 4235" transform="translate(-132.497 -5594.995)">
+    <rect id="Rectangle_2480" data-name="Rectangle 2480" width="330" height="278" rx="15" transform="translate(1137 5599)" fill="#149ac6"/>
+    <rect id="Rectangle_2481" data-name="Rectangle 2481" width="330" height="153" rx="15" transform="translate(1137 5902)" fill="#149ac6"/>
+    <text id="The_case_query_does_not_bring_all_the_cases_with_a_date_range._There_is_no_way_to_see_the_new_health_providers_in_the_portal._Every_time_the_list_is_updated." data-name="The case query does not bring all the cases with a date range.
+
+There is no way to see the new health providers in the portal. Every time the list is updated." transform="translate(1164 5659)" fill="#fff" font-size="19" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="21">The case query does not bring </tspan><tspan x="0" y="46">all the cases with a date range.</tspan><tspan x="0" y="71"></tspan><tspan x="0" y="96">There is no way to see the </tspan><tspan x="0" y="121">new health providers in the </tspan><tspan x="0" y="146">portal. Every time the list is </tspan><tspan x="0" y="171">updated.</tspan></text>
+    <text id="Universal_keeps_the_quality_of_its_service." data-name="Universal keeps the quality of its service." transform="translate(1164 5959)" fill="#fff" font-size="19" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="21">Universal keeps the quality of </tspan><tspan x="0" y="46">its service.</tspan></text>
+    <text id="The_CORPORATE_USER_is_a_person_who_wants_to_keep_their_employees_informed_about_the_benefits_and_facilities_they_can_receive_from_the_insurer." data-name="The CORPORATE USER is a person who wants to keep their employees informed about the benefits and facilities they can receive from the insurer." transform="translate(1140 6095)" font-size="19" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="21">The </tspan><tspan y="21" font-family="HelveticaNowDisplay-Bold, Helvetica Now Display" font-weight="700">CORPORATE USER </tspan><tspan y="21">is a person </tspan><tspan x="0" y="46">who wants to keep their employees </tspan><tspan x="0" y="71">informed about the benefits and </tspan><tspan x="0" y="96">facilities they can receive from the </tspan><tspan x="0" y="121">insurer.</tspan></text>
+    <text id="Pain" transform="translate(1164 5625)" fill="#fff" font-size="23" font-family="HelveticaNowDisplay-Black, Helvetica Now Display" font-weight="800" letter-spacing="0.02em"><tspan x="0" y="26">Pain</tspan></text>
+    <text id="Gain" transform="translate(1164 5927)" fill="#fff" font-size="23" font-family="HelveticaNowDisplay-Black, Helvetica Now Display" font-weight="800" letter-spacing="0.02em"><tspan x="0" y="26">Gain</tspan></text>
+    <line id="Line_25" data-name="Line 25" y1="454.843" x2="860.54" transform="translate(153.621 5713.96)" fill="none" stroke="#b7b7b7" stroke-width="2"/>
+    <line id="Line_26" data-name="Line 26" x1="860.54" y1="454.843" transform="translate(153.621 5713.96)" fill="none" stroke="#b7b7b7" stroke-width="2"/>
+    <text id="Think_Feel" data-name="Think &amp; Feel" transform="translate(525.912 5816.925)" font-size="20" font-family="HelveticaNowDisplay-Bold, Helvetica Now Display" font-weight="700" letter-spacing="0.02em"><tspan x="8.517" y="22">Think &amp; Feel</tspan></text>
+    <text id="Say_and_do_" data-name="Say and do?" transform="translate(523.913 6025.853)" font-size="20" font-family="HelveticaNowDisplay-Bold, Helvetica Now Display" font-weight="700" letter-spacing="0.02em"><tspan x="11.057" y="22">Say and do?</tspan></text>
+    <text id="See_" data-name="See?" transform="translate(691.855 5924.888)" font-size="20" font-family="HelveticaNowDisplay-Bold, Helvetica Now Display" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="22">See?</tspan></text>
+    <text id="Hear_" data-name="Hear?" transform="translate(408.952 5924.888)" font-size="20" font-family="HelveticaNowDisplay-Bold, Helvetica Now Display" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="22">Hear?</tspan></text>
+    <g id="Group_4222" data-name="Group 4222" transform="translate(146 5599)">
+      <g transform="matrix(1, 0, 0, 1, -13.5, -4.01)" filter="url(#Rectangle_74)">
+        <rect id="Rectangle_74-7" data-name="Rectangle 74" width="195.433" height="94.967" transform="translate(22.5 76.48)" fill="#fff"/>
+      </g>
+      <path id="Path_1181" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828V166.942H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="The_platform_forces_you_to_work_twice_at_the_time_of_listing._The_quotes_it_issues_are_the_highest_in_the_market._You_always_have_to_ask_for_a_premium_adjustment." data-name="The platform forces you to work twice at the time of listing. The quotes it issues are the highest in the market. You always have to ask for a premium adjustment." transform="translate(30 26)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">The platform forces you to </tspan><tspan x="0" y="31">work twice at the time of </tspan><tspan x="0" y="48">listing. The quotes it issues </tspan><tspan x="0" y="65">are the highest in the </tspan><tspan x="0" y="82">market. You always have to </tspan><tspan x="0" y="99">ask for a premium </tspan><tspan x="0" y="116">adjustment.</tspan></text>
+      <path id="Path_1180" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4223" data-name="Group 4223" transform="translate(146 5826.422)">
+      <g transform="matrix(1, 0, 0, 1, -13.5, -231.43)" filter="url(#Rectangle_74-2)">
+        <rect id="Rectangle_74-8" data-name="Rectangle 74" width="195.433" height="94.967" transform="translate(22.5 253.42)" fill="#fff"/>
+      </g>
+      <path id="Path_1181-2" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828V116.96H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="Universal_lives_in_the_past._They_behave_as_if_they_were_the_only_insurer_in_the_market." data-name="Universal lives in the past. They behave as if they were the only insurer in the market." transform="translate(28.99 24.991)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Universal lives in the past. </tspan><tspan x="0" y="31">They behave as if they </tspan><tspan x="0" y="48">were the only insurer in the </tspan><tspan x="0" y="65">market.</tspan></text>
+      <path id="Path_1180-2" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4224" data-name="Group 4224" transform="translate(146 5961.375)">
+      <g transform="matrix(1, 0, 0, 1, -13.5, -366.38)" filter="url(#Rectangle_74-3)">
+        <rect id="Rectangle_74-9" data-name="Rectangle 74" width="195.433" height="81.972" transform="translate(22.5 391.37)" fill="#fff"/>
+      </g>
+      <path id="Path_1181-3" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828v82.257H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="All_insurers_seek_to_issue_policies_online_to_reduce_the_time_of_intermediaries." data-name="All insurers seek to issue policies online to reduce the time of intermediaries." transform="translate(28.99 24.991)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">All insurers seek to issue </tspan><tspan x="0" y="31">policies online to reduce </tspan><tspan x="0" y="48">the time of intermediaries.</tspan></text>
+      <path id="Path_1180-3" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4225" data-name="Group 4225" transform="translate(255.962 6105.825)">
+      <g transform="matrix(1, 0, 0, 1, -123.47, -510.83)" filter="url(#Rectangle_74-4)">
+        <rect id="Rectangle_74-10" data-name="Rectangle 74" width="195.433" height="94.967" transform="translate(132.46 554.81)" fill="#fff"/>
+      </g>
+      <path id="Path_1181-4" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828V138.952H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="Lately_I_am_doing_the_quotes_directly_via_the_call_center_because_the_web_portal_gives_me_values_that_differ_significantly_from_reality." data-name="Lately, I am doing the quotes directly via the call center because the web portal gives me values that differ significantly from reality." transform="translate(29.038 26.175)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Lately, I am doing the </tspan><tspan x="0" y="31">quotes directly via the call </tspan><tspan x="0" y="48">center because the web </tspan><tspan x="0" y="65">portal gives me values that </tspan><tspan x="0" y="82">differ significantly from </tspan><tspan x="0" y="99">reality.</tspan></text>
+      <path id="Path_1180-4" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4226" data-name="Group 4226" transform="translate(485.883 6121.82)">
+      <g id="Group_3385" data-name="Group 3385" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -353.39, -526.83)" filter="url(#Rectangle_74-5)">
+          <rect id="Rectangle_74-11" data-name="Rectangle 74" width="195.433" height="94.967" transform="translate(362.38 589.8)" fill="#fff"/>
+        </g>
+        <path id="Path_1181-5" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828V158.945H0Z" fill="#fbf5c0"/>
+        <text id="Generating_the_invoices_with_the_conditions_is_vital_for_me._I_spend_an_incredible_amount_of_time_in_my_day-to-day_work_identifying_invoices." data-name="Generating the invoices with the conditions is vital for me. I spend an incredible amount of time in my day-to-day work identifying invoices." transform="translate(29.117 25.18)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Generating the invoices </tspan><tspan x="0" y="31">with the conditions is vital </tspan><tspan x="0" y="48">for me. I spend an </tspan><tspan x="0" y="65">incredible amount of time </tspan><tspan x="0" y="82">in my day-to-day work </tspan><tspan x="0" y="99">identifying invoices.</tspan></text>
+      </g>
+      <path id="Path_1180-5" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934 0)" fill="#beab82"/>
+    </g>
+    <g id="Group_4227" data-name="Group 4227" transform="translate(712.805 6165.305)">
+      <g id="Group_3385-2" data-name="Group 3385" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -580.31, -570.31)" filter="url(#Rectangle_74-6)">
+          <rect id="Rectangle_74-12" data-name="Rectangle 74" width="195.433" height="25.991" transform="translate(589.3 633.29)" fill="#fff"/>
+        </g>
+        <path id="Path_1181-6" data-name="Path 1181" d="M0,0H191.934l10.413,14.878,14.578,9.828V88.969H0Z" fill="#fbf5c0"/>
+        <text id="I_must_take_too_many_steps_to_generate_a_quote." data-name="I must take too many steps to generate a quote." transform="translate(28.99 24.991)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">I must take too many steps </tspan><tspan x="0" y="31">to generate a quote.</tspan></text>
+      </g>
+      <path id="Path_1180-6" data-name="Path 1180" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934 0)" fill="#beab82"/>
+    </g>
+    <g id="Group_4228" data-name="Group 4228" transform="translate(390.916 5599)">
+      <g transform="matrix(1, 0, 0, 1, -258.42, -4.01)" filter="url(#Rectangle_163)">
+        <rect id="Rectangle_163-2" data-name="Rectangle 163" width="195.433" height="68.476" transform="translate(267.42 72.48)" fill="#fff"/>
+      </g>
+      <path id="Path_1182" data-name="Path 1182" d="M0,0H191.934l10.413,14.878,14.578,9.828V136.953H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="Downloading_everything_related_to_a_policy_is_a_multi-step_process._Doing_a_single_click_must_be_enough_to_complete_this_task." data-name="Downloading everything related to a policy is a multi-step process. Doing a single click must be enough to complete this task." transform="translate(30.085 26)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Downloading everything </tspan><tspan x="0" y="31">related to a policy is a </tspan><tspan x="0" y="48">multi-step process. Doing </tspan><tspan x="0" y="65">a single click must be </tspan><tspan x="0" y="82">enough to complete this </tspan><tspan x="0" y="99">task.</tspan></text>
+      <path id="Path_1183" data-name="Path 1183" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4229" data-name="Group 4229" transform="translate(630.833 5599)">
+      <g transform="matrix(1, 0, 0, 1, -498.34, -4.01)" filter="url(#Rectangle_164)">
+        <rect id="Rectangle_164-5" data-name="Rectangle 164" width="195.433" height="94.967" transform="translate(507.33 72.48)" fill="#fff"/>
+      </g>
+      <path id="Path_1184" data-name="Path 1184" d="M0,0H191.934l10.413,14.878,14.578,9.828V166.942H0Z" transform="translate(0 0)" fill="#fbf5c0"/>
+      <text id="I_need_to_see_all_the_general_conditions_of_all_types_of_policies_in_one_place._So_for_example_when_we_have_a_claim_the_first_things_we_look_for_are_the_conditions_to_validate_if_it_proceeds." data-name="I need to see all the general conditions of all types of policies in one place. So, for example, when we have a claim, the first things we look for are the conditions to validate if it proceeds." transform="translate(28.167 26)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">I need to see all the general </tspan><tspan x="0" y="31">conditions of all types of </tspan><tspan x="0" y="48">policies in one place. So, </tspan><tspan x="0" y="65">for example, when we have </tspan><tspan x="0" y="82">a claim, the first things we </tspan><tspan x="0" y="99">look for are the conditions </tspan><tspan x="0" y="116">to validate if it proceeds.</tspan></text>
+      <path id="Path_1185" data-name="Path 1185" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934 0)" fill="#beab82"/>
+    </g>
+    <g id="Group_4230" data-name="Group 4230" transform="translate(875.748 5747.949)">
+      <g transform="matrix(1, 0, 0, 1, -743.25, -152.95)" filter="url(#Rectangle_164-2)">
+        <rect id="Rectangle_164-6" data-name="Rectangle 164" width="195.433" height="68.476" transform="translate(752.25 221.43)" fill="#fff"/>
+      </g>
+      <path id="Path_1184-2" data-name="Path 1184" d="M0,0H191.934l10.413,14.878,14.578,9.828V136.953H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="The_best_plan_on_the_market_for_cars_is_HUMAN._My_Full_Car._The_colonial_has_an_APP_for_intermediaries." data-name="The best plan on the market for cars is HUMAN. “My Full Car.” The colonial has an APP for intermediaries." transform="translate(30.252 25.051)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">The best plan on the </tspan><tspan x="0" y="31">market for cars is HUMAN. </tspan><tspan x="0" y="48">“My Full Car.” The colonial </tspan><tspan x="0" y="65">has an APP for </tspan><tspan x="0" y="82">intermediaries.</tspan></text>
+      <path id="Path_1185-2" data-name="Path 1185" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4231" data-name="Group 4231" transform="translate(875.748 5599)">
+      <g transform="matrix(1, 0, 0, 1, -743.25, -4.01)" filter="url(#Rectangle_165)">
+        <rect id="Rectangle_165-2" data-name="Rectangle 165" width="195.433" height="94.967" transform="translate(752.25 19.5)" fill="#fff"/>
+      </g>
+      <path id="Path_1186" data-name="Path 1186" d="M0,0H191.934l10.413,14.878,14.578,9.828v89.338H0Z" transform="translate(0)" fill="#fbf5c0"/>
+      <text id="The_search_for_affiliates_is_not_precise_it_is_confusing_and_tedious." data-name="The search for affiliates is not precise; it is confusing and tedious." transform="translate(30.252 26)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">The search for affiliates is </tspan><tspan x="0" y="31">not precise; it is confusing </tspan><tspan x="0" y="48">and tedious.</tspan></text>
+      <path id="Path_1187" data-name="Path 1187" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934)" fill="#beab82"/>
+    </g>
+    <g id="Group_4232" data-name="Group 4232" transform="translate(875.748 6004.86)">
+      <g transform="matrix(1, 0, 0, 1, -743.25, -409.87)" filter="url(#Rectangle_164-3)">
+        <rect id="Rectangle_164-7" data-name="Rectangle 164" width="195.433" height="68.476" transform="translate(752.25 478.34)" fill="#fff"/>
+      </g>
+      <path id="Path_1184-3" data-name="Path 1184" d="M0,0H191.934l10.413,14.878,14.578,9.828V136.953H0Z" transform="translate(0 0)" fill="#fbf5c0"/>
+      <text id="Sura_has_the_most_accessible_portal_to_use._You_can_consult_all_the_user_s_information_with_just_the_name_of_the_client." data-name="Sura has the most accessible portal to use. You can consult all the user’s information with just the name of the client." transform="translate(30.252 25.14)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Sura has the most </tspan><tspan x="0" y="31">accessible portal to use. </tspan><tspan x="0" y="48">You can consult all the </tspan><tspan x="0" y="65">user’s information with just </tspan><tspan x="0" y="82">the name of the client.</tspan></text>
+      <path id="Path_1185-3" data-name="Path 1185" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934 0)" fill="#beab82"/>
+    </g>
+    <g id="Group_4233" data-name="Group 4233" transform="translate(875.748 5898.276)">
+      <g id="Group_3377" data-name="Group 3377" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -743.25, -303.28)" filter="url(#Rectangle_164-4)">
+          <rect id="Rectangle_164-8" data-name="Rectangle 164" width="195.433" height="27.731" transform="translate(752.25 371.76)" fill="#fff"/>
+        </g>
+        <path id="Path_1184-4" data-name="Path 1184" d="M0,0H191.934l10.413,10.452,14.3,13.96.28,71.8H0Z" transform="translate(0 0)" fill="#fbf5c0"/>
+        <text id="Sura_and_Reservations_can_issue_policies_online." data-name="Sura and Reservations can issue policies online." transform="translate(28.99 24.991)" font-size="13" font-family="HelveticaNowDisplay-Regular, Helvetica Now Display" letter-spacing="0.02em"><tspan x="0" y="14">Sura and Reservations can </tspan><tspan x="0" y="31">issue policies online.</tspan></text>
+        <path id="Path_1185-4" data-name="Path 1185" d="M0,0,24.991,24.691h0L0,24.991Z" transform="translate(191.934 0)" fill="#beab82"/>
+      </g>
+    </g>
+    <g id="Group_4234" data-name="Group 4234" transform="translate(537.934 5861.947)">
+      <g id="Group_3383" data-name="Group 3383" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Path_1188" data-name="Path 1188" d="M100.8,88.875a24.1,24.1,0,0,1,2.145,2.4c.225.327.066.966-.023,1.444a4.507,4.507,0,0,1-.548,1.051c-1.419.4-2.3,1.563-3.091,3-1.06,1.917-.583,3.891-.65,5.853a21.915,21.915,0,0,1-.093,3.423,11.357,11.357,0,0,1-1.21,2.838,6,6,0,0,1-1.18,1.735,10.637,10.637,0,0,1-2.385,1.65,22.385,22.385,0,0,1-3.087,1.141c-1.213.393-2.441.74-3.668,1.087-.717.2-1.447.361-2.169.546-1.261.323-2.519.657-3.783.97-.231.057-.484.018-.719.063a22.424,22.424,0,0,0-3.058.651,8.082,8.082,0,0,0-1.844,1.183,24.833,24.833,0,0,0-2.232,1.645c-1.39,1.231-2.753,2.5-4.069,3.805a38.173,38.173,0,0,0-2.609,2.916c-.711.87-1.341,1.808-1.989,2.729-.41.583-.807,1.178-1.172,1.79a9.8,9.8,0,0,1-1.011,1.808c-.724.763-.645,1.981-1.644,2.592-.336.206-.466.8-.619,1.244-.241.693-.436,1.4-.625,2.113-.374,1.412-.73,2.829-1.109,4.306-1.034-.1-2.058.283-3.043-.409-.472-.332-1.169-.132-1.738-.591a28.968,28.968,0,0,0-3.009-1.877c-1.076-.666-2.163-1.318-3.207-2.033-.639-.437-1.184-1.008-1.808-1.47-.652-.483-1.346-.91-2.025-1.357-.768-.507-1.53-1.025-2.313-1.508-.7-.43-1.426-.811-2.135-1.225-.8-.47-1.594-.964-2.4-1.425q-1.391-.793-2.806-1.543c-.914-.483-1.842-.939-2.764-1.406-.394-.2-.777-.426-1.185-.588-.627-.249-1.282-.429-1.906-.685-.693-.284-1.357-.64-2.048-.928-.6-.251-1.23-.444-1.842-.676-.816-.31-1.623-.644-2.442-.945a5.7,5.7,0,0,0-.774-.15c-.4-.086-.941.122-1.1-.517-.021-.081-.246-.131-.384-.158a27.879,27.879,0,0,0-6.727-.638c-.782.04-1.568.065-2.35.03a2.916,2.916,0,0,1-.861-.331c.121-.255.225-.52.365-.765.582-1.016,1.105-2.075,1.78-3.025.78-1.1,1.738-2.069,2.542-3.152a21.931,21.931,0,0,0,1.384-2.311c.3-.526.557-1.074.835-1.612a1.315,1.315,0,0,0,.165-.316c.212-1.116.443-2.229.61-3.351a34.51,34.51,0,0,0,.447-3.842,18.067,18.067,0,0,0-.376-2.29,13.1,13.1,0,0,0-.063-2.222c-.6-2.1-1.278-4.194-2.043-6.245-.778-2.086-1.672-4.13-2.562-6.173-.438-1-1.008-1.95-1.464-2.947-.262-.573-.373-1.214-.63-1.79-.387-.866-.851-1.7-1.268-2.55a29.342,29.342,0,0,0-1.486-3.033c-.559-.872-.631-2.027-1.623-2.662a2.194,2.194,0,0,1-.6-1.047c-.428-1.1-.818-2.2-1.223-3.309q-.433-1.182-.867-2.364a1.475,1.475,0,0,1-.1-.248c-.22-1.326-.394-2.661-.665-3.977-.249-1.211-.6-2.4-.91-3.6-.022-.087-.052-.173-.065-.261-.216-1.393-.375-2.8-.66-4.175C.8,54.093.4,53.061.122,52a3.369,3.369,0,0,1-.1-1.239c.386-3.048.759-6.1,1.23-9.133a19.963,19.963,0,0,1,.983-3.863c.412-1.111.72-2.244,1.087-3.36a29.144,29.144,0,0,0,1.124-5.024,12.087,12.087,0,0,1,1.548-3.917,13.6,13.6,0,0,1,2.015-2.384,17.093,17.093,0,0,1,1.415-1.387,9.147,9.147,0,0,1,1.3-.949c1-.6,2.052-1.1,3.006-1.755a2.584,2.584,0,0,0,.705-1.213,9.208,9.208,0,0,1,2.946-4.071c1.37-1.057,2.484-2.453,3.932-3.313,1.469-.873,2.251-2.36,3.621-3.279A8.157,8.157,0,0,1,27.4,5.665c.36-.092.665-.384,1.021-.509,1.621-.568,3.412-.892,4.6-2.212a15.106,15.106,0,0,1,2.8-2.064A4.866,4.866,0,0,1,38.276.139a23.7,23.7,0,0,1,5.5.055c4.678.867,9.384.126,14.055.52a15.754,15.754,0,0,1,3.038.85c.541.161,1.081.331,1.612.521.807.29,1.6.61,2.41.9.884.32,1.776.621,2.664.931a1.824,1.824,0,0,0,.253.094c1.144.213,2.3.382,3.431.642,1.192.274,2.363.638,3.546.95.2.053.422.024.629.06a24.278,24.278,0,0,1,3.423.65A17.539,17.539,0,0,1,81.4,7.7c.367.195.8.272,1.157.478.818.469,1.59,1.018,2.416,1.472,1.122.616,2.275,1.175,3.418,1.754a13.287,13.287,0,0,1,3.289,2.733,4.608,4.608,0,0,0,2.179,1.57c.661.154,1.075,2.265.628,2.849-.432.564-.931,1.079-1.323,1.667a.843.843,0,0,0,.036.8c.754.831.874,2.015,1.51,2.826.5.638.124,1.612,1.075,2.057.362.169.429,1.02.58,1.574.227.831.388,1.68.619,2.51.3,1.07.639,2.127.961,3.19a1.773,1.773,0,0,1,.05.171c.19.976.387,1.95.566,2.927a21.043,21.043,0,0,0,.676,3.6,13.371,13.371,0,0,1,.44,6.338,22.084,22.084,0,0,1-1.2,5.483,8.416,8.416,0,0,0-.306,4.245c.074.6.688,1.15,1.1,1.692.875,1.159,1.758,2.313,2.676,3.438.338.414.839.7,1.17,1.116.592.747,1.091,1.568,1.668,2.328.937,1.235,1.906,2.446,2.861,3.668.289.369.6.725.858,1.114.341.509.61,1.068.968,1.564a3.134,3.134,0,0,1-.7,4.022c-.389.276-.636.767-1.038,1.008a7.183,7.183,0,0,1-3.2,1.339,2.716,2.716,0,0,0-1.859,2.236,22.263,22.263,0,0,0,.582,4.549,6.891,6.891,0,0,1,.443,2.144,2.2,2.2,0,0,1-1.844,2.106,3.792,3.792,0,0,0-1.045.6" transform="translate(0 -0.004)" fill="#445469"/>
+      </g>
+    </g>
+  </g>
+</svg>
