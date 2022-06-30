@@ -620,6 +620,7 @@ h2 span {
   padding: 0;
   margin-bottom: 24px;
   float: left;
+  width: 100%;
 }
 
 .hotizontal-pills li {
